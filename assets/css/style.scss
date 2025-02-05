@@ -1,2 +1,10 @@
 
-@import "main";
+@import "jekyll-theme-minimal";
+
+.site-title::before {
+content: url("/assets/Logo.png");
+display: inline-block;
+position: relative;
+width: 35px;
+top: 5px;
+}
