@@ -1,1 +1,5 @@
+Education
 
+Work Experience
+
+Projects
